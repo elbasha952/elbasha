@@ -1,0 +1,7 @@
+echo "#elbasha" >> README.md 
+git init 
+git add README.md 
+git الالتزام -m "الالتزام الأول" 
+git Branch -M main 
+git Remote add Origin https://github.com/elbasha952/elbasha.git
+ git Push - ش الأصل الرئيسي
